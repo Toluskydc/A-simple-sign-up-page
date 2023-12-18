@@ -55,6 +55,7 @@ main {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
+  margin-top: -10px;
 }
 
 .layout h1 {
@@ -215,9 +216,11 @@ form {
   .layout {
     max-width: 100%;
     line-height: normal;
+    
 
     > h1 {
       font-size: 32px;
+      margin-top: -15px;
     }
   }
 
